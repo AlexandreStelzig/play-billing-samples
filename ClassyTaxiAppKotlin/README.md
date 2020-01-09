@@ -101,7 +101,7 @@ This sample application uses Firebase (Auth, Notifications, Firestore).
 
     * [https://console.firebase.google.com/](https://console.firebase.google.com/)
 
-1. In the project, go to Develop > Database > Cloud Firestore > Get started > Start in locked mode
+1. In the project, go to Develop > Database > Cloud Firestore > Create Database > Start in production mode
 
     * Wait for Firestore to be enabled for the project
 
